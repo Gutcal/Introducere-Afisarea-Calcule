@@ -1,0 +1,6 @@
+a=int(input("prim. nr."))
+b=int(input("doi nr."))
+c=int(input("trei nr."))
+print(a,"+",b "=",a+b)
+print(a "+",c "=",a+c)
+print(b,"+",c"=", b+c)

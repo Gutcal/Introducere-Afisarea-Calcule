@@ -1,0 +1,5 @@
+a=int(input("nr. de oua intr-o zi la prima gaina"))
+b=int(input("nr. de oua intr-o zi la a doua gaina"))
+c=int(input("nr. de oua intr-o zi la a treia gaina"))
+d=int(input("ne. de oua intr-o zi la a patra gaina"))
+print("nr. de oua total", 7*(a+b+c+d))
